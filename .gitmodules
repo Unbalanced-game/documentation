@@ -1,0 +1,18 @@
+[submodule "wiki/unbalanced-online"]
+	path = wiki/unbalanced-online
+	url = https://github.com/Unbalanced-game/unbalanced-online.wiki.git
+[submodule "wiki/unbalanced-assets"]
+	path = wiki/unbalanced-assets
+	url = https://github.com/Unbalanced-game/unbalanced-assets.wiki.git
+[submodule "wiki/unbalanced-documentation"]
+	path = wiki/unbalanced-documentation
+	url = https://github.com/Unbalanced-game/unbalanced-documentation.wiki.git
+[submodule "wiki/website"]
+	path = wiki/website
+	url = https://github.com/Unbalanced-game/unbalanced-game.github.io.wiki.git
+[submodule "wiki/unbalanced-game_creator"]
+	path = wiki/unbalanced-game_creator
+	url = https://github.com/Unbalanced-game/unbalanced-game_creator.wiki.git
+[submodule "wiki/unbalanced-BoardGame"]
+	path = wiki/unbalanced-BoardGame
+	url = https://github.com/Unbalanced-game/unbalanced-BoardGame.wiki.git
